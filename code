@@ -1,0 +1,4 @@
+int FindMax(int[] array)
+{
+    return array.Max();
+}
